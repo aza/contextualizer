@@ -40,5 +40,4 @@ var momentObj = {
 
 bar.createContext(momentObj, function(context){
 	console.log( context )
-	//assert.equal( venue.name, 'Terroir')
 })
